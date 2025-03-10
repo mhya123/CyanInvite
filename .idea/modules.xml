@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spigot/CyanBukkit.CyanInvate.spigot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spigot/CyanBukkit.CyanInvate.spigot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bungee/CyanInvate.bungee.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bungee/CyanInvate.bungee.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spigot/CyanInvate.spigot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spigot/CyanInvate.spigot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/velocity/CyanInvate.velocity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/velocity/CyanInvate.velocity.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bungee/Documents.java_mcjava_code.CyanInvate.bungee.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bungee/Documents.java_mcjava_code.CyanInvate.bungee.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spigot/Documents.java_mcjava_code.CyanInvate.spigot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spigot/Documents.java_mcjava_code.CyanInvate.spigot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bungee/cn.cyanbukkit.invatebungee.CyanInvate.bungee.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bungee/cn.cyanbukkit.invatebungee.CyanInvate.bungee.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/velocity/cn.cyanbukkit.invatevelocity.CyanInvate.velocity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/velocity/cn.cyanbukkit.invatevelocity.CyanInvate.velocity.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bungee/java_mcjava_code.CyanInvate.bungee.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bungee/java_mcjava_code.CyanInvate.bungee.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spigot/java_mcjava_code.CyanInvate.spigot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spigot/java_mcjava_code.CyanInvate.spigot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/velocity/java_mcjava_code.CyanInvate.velocity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/velocity/java_mcjava_code.CyanInvate.velocity.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bungee/liuyuxuanyi.Documents.java_mcjava_code.CyanInvate.bungee.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bungee/liuyuxuanyi.Documents.java_mcjava_code.CyanInvate.bungee.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spigot/liuyuxuanyi.Documents.java_mcjava_code.CyanInvate.spigot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spigot/liuyuxuanyi.Documents.java_mcjava_code.CyanInvate.spigot.main.iml" />
+    </modules>
+  </component>
+</project>

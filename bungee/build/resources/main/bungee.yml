@@ -1,0 +1,5 @@
+name: CyanInvite
+version: '1.0-SNAPSHOT'
+main: cn.cyanbukkit.invatebungee.CyanInvite
+author: CyanBukkit
+description: BungeeCord版

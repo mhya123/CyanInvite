@@ -1,0 +1,54 @@
+messages:
+  enable: "&a插件已开启"
+  disable: "&c插件已关闭"
+  shout-format: "&6[喊话]&e[%server%(%players%)]&b[%player%]&8:&f%message%"
+  shout-is-empty: "&c喊话内容不能为空！"
+  no-shouts: "&c您的喇叭数量不足！"
+  invite-format: "&b&l>> &7 %player% &b&l邀请你加入 &e%server% &b&l房间！\n&6&l点击此信息 &b&l加入！"
+  hover-format: "&a点击传送至服务器 &6%server%"
+  run-in-console: "&c该命令不能在控制台执行！"
+  in-cooldown: "&c你还需等待 &b&l %timeleft% &c秒才能使用此指令！"
+  in-blocked-server: "&c你不能在该服务器执行此命令！"
+  no-teleport-permission: "&c你没有权限传送到该服务器！"
+  invitation-expired: "&c该邀请已过期"
+  block-invite-message: "&e已屏蔽所有喊话消息"
+  unblock-invite-message: "&a已解除屏蔽，你现在可以收到新的喊话消息了"
+  blocked-message: "&c您发送的消息中含有不适宜传播的内容，已被屏蔽"
+  reload-plugin: "&a插件配置重载成功"
+  shout-success: "&a喊话成功！现在剩下 &b&l %shouts% &a次喊话机会！"
+  invite-hover: "&a点击加入"
+Announcements:    # 公告
+  settings:
+    interval: 200
+    disabledServers:
+      - "登录服"
+      - "login"
+  message:
+    '1':
+      enabled: true
+      value:
+        - ' &B&L欢迎来到一梦之初;w;'
+        - ''
+        - ' &c&l输入/hub 回到主大厅! '
+        - ' &c&l起床房间中/leave 回到起床大厅! '
+        - ' &c&l若游玩起床时断线可在起床大厅内输入/rejoin重新连接！'
+        - ' &c&l有什么BUG的欢迎反馈pwq '
+        - ''
+    '2':
+      enabled: true
+      value:
+        - '&b&L欢迎来到一梦之初吖(*^▽^*)'
+        - ''
+        - '&c&l服务器QQ群:974519032'
+        - '&c&l彼得的粉丝群：739074156'
+        - '&c&l腐竹QQ:2167701402'
+        - ''
+    '3':
+      enabled: true
+      value:
+        - '&B&L欢迎来到一梦之初吖(*^▽^*)'
+        - ''
+        - '&c&l坚决拒绝外挂,现在被封禁的人数:&6&l15&c&l名开纪者!'
+        - '&c&l遇到问题找腐竹或者志愿者解决吖~'
+        - '&c&lCPS超过38请联系2167701402发自证否则会吞方块以及封禁!'
+        - ''

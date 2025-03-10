@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de8f036d-846c-4e98-98c4-72bfe32911f7" name="更改" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/bungee/cn.cyanbukkit.invatebungee.CyanInvate.bungee.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/bungee/java_mcjava_code.CyanInvate.bungee.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/spigot/CyanBukkit.CyanInvate.spigot.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/spigot/java_mcjava_code.CyanInvate.spigot.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/velocity/CyanInvate.velocity.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/bungee/CyanInvate.bungee.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/bungee/CyanInvate.bungee.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spigot/CyanInvate.spigot.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spigot/CyanInvate.spigot.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/libs/BungeeCord.jar" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/libs/BungeeCord.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/CyanInvite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/CyanInvite.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/command/InviteTeleport.kt" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/command/InviteTeleport.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/command/ManagerShout.kt" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/command/ManagerShout.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/command/main/BlockInvite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/command/main/BlockInvite.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/command/main/CallInvite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/command/main/CallInvite.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/command/main/HornMessage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/command/main/HornMessage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/listener/ChatListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/listener/ChatListener.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/task/Announce.kt" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/task/Announce.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/utils/Model.kt" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/utils/Model.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/utils/PlayerOther.kt" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/kotlin/cn/cyanbukkit/invatebungee/utils/PlayerOther.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/resources/bungee.yml" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/resources/bungee.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bungee/src/main/resources/message.yml" beforeDir="false" afterPath="$PROJECT_DIR$/bungee/src/main/resources/message.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/core/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/kotlin/cn/cyanbukkit/mysql/MySQL.kt" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/kotlin/cn/cyanbukkit/mysql/MySQL.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/launcher/CyanPluginLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/launcher/CyanPluginLauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/KotlinBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/KotlinBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/LoadingException.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/LoadingException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/BukkitLibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/BukkitLibraryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/IsolatedClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/IsolatedClassLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/LibraryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Logger/LogLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Logger/LogLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Logger/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Logger/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Logger/adapters/JDKLogAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Logger/adapters/JDKLogAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Logger/adapters/LogAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Logger/adapters/LogAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Relocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Relocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/RelocationHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/RelocationHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Repositories.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/Repositories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/URLClassLoaderHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/java/cn/cyanbukkit/invatespigot/cyanlib/loader/lanternmc/URLClassLoaderHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/kotlin/cn/cyanbukkit/invatespigot/ShoutInvite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/kotlin/cn/cyanbukkit/invatespigot/ShoutInvite.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/kotlin/cn/cyanbukkit/invatespigot/SpigotShoutInvite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/kotlin/cn/cyanbukkit/invatespigot/SpigotShoutInvite.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spigot/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spigot/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/8.8/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/8.8/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/8.8/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/8.8/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/8.8/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/8.8/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/8.8/dependencies-accessors/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/8.8/dependencies-accessors/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/8.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/8.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/8.8/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/8.8/fileChanges/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/8.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/8.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/8.8/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/8.8/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/classes/java/main/cn/cyanbukkit/invatevelocity/BuildConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/classes/java/main/cn/cyanbukkit/invatevelocity/BuildConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/classes/kotlin/main/META-INF/velocity.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/classes/kotlin/main/META-INF/velocity.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/classes/kotlin/main/cn/cyanbukkit/invatevelocity/CyanInvite.class" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/classes/kotlin/main/cn/cyanbukkit/invatevelocity/CyanInvite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/generated/sources/templates/cn/cyanbukkit/invatevelocity/BuildConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/generated/sources/templates/cn/cyanbukkit/invatevelocity/BuildConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/cacheable/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/compileKotlin/local-state/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/cacheable/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/kotlin/kaptGenerateStubsKotlin/local-state/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/tmp/kapt3/classes/main/velocity-plugin.json" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/tmp/kapt3/classes/main/velocity-plugin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incApCache/main/ap-classpath-entries.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incApCache/main/ap-classpath-entries.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incApCache/main/apt-cache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incApCache/main/apt-cache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incApCache/main/classpath-entries.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incApCache/main/classpath-entries.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incApCache/main/classpath-structure.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incApCache/main/classpath-structure.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incApCache/main/java-cache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incApCache/main/java-cache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incrementalData/main/META-INF/velocity.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incrementalData/main/META-INF/velocity.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incrementalData/main/cn/cyanbukkit/invatevelocity/CyanInvite.class" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/tmp/kapt3/incrementalData/main/cn/cyanbukkit/invatevelocity/CyanInvite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/tmp/kapt3/stubs/main/cn/cyanbukkit/invatevelocity/CyanInvite.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/tmp/kapt3/stubs/main/cn/cyanbukkit/invatevelocity/CyanInvite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/tmp/kapt3/stubs/main/cn/cyanbukkit/invatevelocity/CyanInvite.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/tmp/kapt3/stubs/main/cn/cyanbukkit/invatevelocity/CyanInvite.kapt_metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/build/tmp/kapt3/stubs/main/error/NonExistentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/build/tmp/kapt3/stubs/main/error/NonExistentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/ConfigurationOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/ConfigurationOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/ConfigurationSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/ConfigurationSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/InvalidConfigurationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/InvalidConfigurationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/MemoryConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/MemoryConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/MemoryConfigurationOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/MemoryConfigurationOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/MemorySection.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/MemorySection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/NumberConversions.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/NumberConversions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/SectionPathData.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/SectionPathData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/Validate.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/Validate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/FileConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/FileConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/FileConfigurationOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/FileConfigurationOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/YamlConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/YamlConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/YamlConfigurationOptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/YamlConfigurationOptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/YamlConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/YamlConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/YamlRepresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/YamlRepresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/file/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/serialization/ConfigurationSerializable.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/serialization/ConfigurationSerializable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/serialization/ConfigurationSerialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/serialization/ConfigurationSerialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/serialization/DelegateDeserialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/serialization/DelegateDeserialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/serialization/SerializableAs.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/serialization/SerializableAs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/serialization/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/java/cn/cyanbukkit/invatevelocity/config/serialization/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/CyanInvite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/CyanInvite.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/commands/InviteTeleport.kt" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/commands/InviteTeleport.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/commands/ManagerShout.kt" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/commands/ManagerShout.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/commands/main/BlockInvite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/commands/main/BlockInvite.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/commands/main/CallInvite.kt" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/commands/main/CallInvite.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/commands/main/HornMessage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/commands/main/HornMessage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/listener/ChatListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/listener/ChatListener.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/task/Announce.kt" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/task/Announce.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/utils/Model.kt" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/utils/Model.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/utils/PlayerOther.kt" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/kotlin/cn/cyanbukkit/invatevelocity/utils/PlayerOther.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/resources/message.yml" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/resources/message.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity/src/main/templates/cn/cyanbukkit/invatevelocity/BuildConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/velocity/src/main/templates/cn/cyanbukkit/invatevelocity/BuildConstants.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/spigot">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/velocity">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/bungee">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CyanInvate" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CyanInvate" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CyanInvate" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CyanInvate" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="shadow" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="无" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2mFOw7LKHxuL17fqbiFkV5tmRHj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.CyanInvate [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CyanInvate [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CyanInvate [shadowJar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CyanInvate:bungee [assemble].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CyanInvate:bungee [buildDependents].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CyanInvate:bungee [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CyanInvate:bungee [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CyanInvate:bungee [shadowJar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CyanInvate:spigot [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CyanInvate:spigot [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CyanInvate:spigot [shadowJar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CyanInvate:velocity [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.CyanInvate:velocity [shadowJar].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/liuyuxuanyi/Documents/java_mcjava_code/CyanInvate&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.063532405&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.382&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;/Users/liuyuxuanyi/.gradle&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/velocity/src/main/resources" />
+      <recent name="$PROJECT_DIR$/velocity/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bungee/src/main/resources" />
+      <recent name="$PROJECT_DIR$/bungee" />
+      <recent name="$PROJECT_DIR$/velocity/libs" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="cn.cyanbukkit.invatebungee.command.main" />
+      <recent name="cn.cyanbukkit.invatebungee.command" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.CyanInvate [shadowJar]">
+    <configuration name="CyanInvate [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CyanInvate [shadowJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="shadowJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CyanInvate:spigot [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spigot" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CyanInvate:spigot [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spigot" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CyanInvate:velocity [shadowJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/velocity" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="shadowJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CyanInvate [shadowJar]" />
+        <item itemvalue="Gradle.CyanInvate:spigot [clean]" />
+        <item itemvalue="Gradle.CyanInvate:spigot [build]" />
+        <item itemvalue="Gradle.CyanInvate:velocity [shadowJar]" />
+        <item itemvalue="Gradle.CyanInvate [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19416.15" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19416.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="de8f036d-846c-4e98-98c4-72bfe32911f7" name="更改" comment="" />
+      <created>1726669093736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726669093736</updated>
+      <workItem from="1726669095807" duration="3675000" />
+      <workItem from="1726675302577" duration="3807000" />
+      <workItem from="1726679120622" duration="940000" />
+      <workItem from="1726736871650" duration="26428000" />
+      <workItem from="1727155861788" duration="5945000" />
+      <workItem from="1727200104582" duration="19624000" />
+      <workItem from="1727442308790" duration="5130000" />
+      <workItem from="1727578608102" duration="3438000" />
+      <workItem from="1727663271545" duration="5343000" />
+      <workItem from="1728448986946" duration="3030000" />
+      <workItem from="1728757953274" duration="1822000" />
+      <workItem from="1728802738762" duration="285000" />
+      <workItem from="1728812119533" duration="943000" />
+      <workItem from="1728813071155" duration="172000" />
+      <workItem from="1728813251520" duration="4471000" />
+      <workItem from="1728828632764" duration="7156000" />
+      <workItem from="1729399513605" duration="4987000" />
+      <workItem from="1729434109743" duration="747000" />
+      <workItem from="1729510968364" duration="11654000" />
+      <workItem from="1729575040973" duration="7876000" />
+      <workItem from="1730006367772" duration="28796000" />
+      <workItem from="1730105733718" duration="1893000" />
+      <workItem from="1730108224837" duration="6217000" />
+      <workItem from="1730168699570" duration="7396000" />
+      <workItem from="1732804649125" duration="156000" />
+      <workItem from="1734868034978" duration="2127000" />
+      <workItem from="1735156730237" duration="33000" />
+      <workItem from="1735803299719" duration="3187000" />
+      <workItem from="1735806514056" duration="7250000" />
+      <workItem from="1736499856108" duration="3000" />
+      <workItem from="1737209129160" duration="9000" />
+      <workItem from="1737739210492" duration="98000" />
+      <workItem from="1737816392644" duration="20000" />
+      <workItem from="1738671764057" duration="716000" />
+      <workItem from="1738843764914" duration="142000" />
+      <workItem from="1738845847942" duration="987000" />
+      <workItem from="1741512387397" duration="17000" />
+      <workItem from="1741512421638" duration="2456000" />
+    </task>
+    <task id="LOCAL-00001" summary="更新修复bug">
+      <option name="closed" value="true" />
+      <created>1729695430196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729695430196</updated>
+    </task>
+    <task id="LOCAL-00002" summary="0.1 定档">
+      <option name="closed" value="true" />
+      <created>1730180602611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730180602611</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <option name="closed" value="true" />
+      <created>1735156746713</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735156746713</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新修复bug" />
+    <MESSAGE value="0.1 定档" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

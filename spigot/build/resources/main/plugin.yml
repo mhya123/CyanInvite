@@ -1,0 +1,7 @@
+name: CyanInvate
+version: "0.2"
+main: cn.cyanbukkit.invatespigot.cyanlib.launcher.CyanPluginLauncher
+description: Spigot/paper 插件
+authors:
+  - CyanBukkit
+website: https://cyanbukkit.cn

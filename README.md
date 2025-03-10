@@ -71,3 +71,6 @@ CyanInvate/
 - 使用HikariCP连接池
 - 支持多语言消息配置
 - 完整的邀请生命周期管理
+
+
+[![](https://www.go176.net/content/uploadfile/202309/b5111695853313.png)](https://awacode.top/lyxy)

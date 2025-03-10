@@ -1,0 +1,40 @@
+JDBC_URL: jdbc:mysql://localhost:3306/your_db_name
+USERNAME: your_username
+PASSWORD: your_password
+Commands:  # 指令
+  喊话: "hh"
+  邀请: "yq"
+  屏蔽: "pb"
+# 屏蔽的服务器是否可以看到消息
+CanBlockedServerSeeMessages: false
+Times:  # 时间
+  join-cooldown: 30
+  cooldown: 30
+  expiry: 100 # 邀请过期时间
+UseShouts: true  # 使用喊话
+DefaultShouts: 10   # 默认喊话数量
+# 屏蔽的服务器 不能喊话与不能邀请
+# 喊话有冷却消耗喇叭
+# 邀请有冷却不消耗喇叭
+BlockedServers:
+  - "登录服"
+  - "login"
+# 服务器别名
+ServersAlias:
+  lobby: "&a大厅"
+  bedwars: "&e起床战争"
+NeedPermissionServers:  # 需要权限的服务器
+  - 'bedwars'
+DisabledServers:   # 禁用的服务器 默认关闭喊话
+  - 'survival'
+# 为什么设成仅邀请冷却?
+#  因为 喇叭花钱的喊呗反正收钱的是服主
+VipInviteCooldowns:  # 权限
+  - "group.mvp:30"
+  - "group.mvp+:20"
+BlockedWords:
+  - '666'
+  - '^http://'
+  - '^https://'
+  - '$sb'
+  - '*cnm'
